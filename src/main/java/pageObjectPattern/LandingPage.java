@@ -38,12 +38,14 @@ public class LandingPage extends Base{
 		boolean Logo=logo.isDisplayed();
         Assert.assertTrue(Logo);
         System.out.println(Logo);
+        log.info("logo is verified");
 	}
 	public void verifyTitle() {
 		String expected="FEATURED COURSES";
 		String actual=title.getText();
 		Assert.assertEquals(actual, expected);
 		System.out.println(actual);
+		log.info("Title of the page verified");
 	}
 	public void verifyNavigationBar() {
 		Assert.assertTrue(navBar.isDisplayed());
