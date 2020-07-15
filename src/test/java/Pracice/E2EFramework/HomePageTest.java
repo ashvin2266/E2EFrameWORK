@@ -16,7 +16,7 @@ import pageObjectPattern.LandingPage;
 
 public class HomePageTest extends Base{
 	public WebDriver driver;
-	private static  Logger log= LogManager.getLogger(HomePageTest.class.getName());
+//	private static  Logger log= LogManager.getLogger(HomePageTest.class.getName());
 	LandingPage l;
 	HomePage hp;
 	
@@ -56,6 +56,7 @@ public class HomePageTest extends Base{
 	public void tearDown() {
 //		driver.close();
 		driver.quit();
+		log.info("Browser is closed");
 	}
 
 }

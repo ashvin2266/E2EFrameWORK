@@ -1,3 +1,6 @@
-12:58:57.853 [main] INFO  pageObjectPattern.RegisterPage - Url is open
-12:59:30.240 [main] INFO  pageObjectPattern.RegisterPage - Url is open
-13:00:02.923 [main] INFO  pageObjectPattern.RegisterPage - Url is open
+23:03:15.088 [main] INFO  base.Base - Driver is initalize
+23:03:17.354 [main] INFO  base.Base - URL is open
+23:03:18.843 [main] INFO  base.Base - error message is displayed
+23:03:19.697 [main] INFO  base.Base - URL is open
+23:03:20.480 [main] INFO  base.Base - error message is displayed
+23:03:21.137 [main] INFO  base.Base - Browser is closed

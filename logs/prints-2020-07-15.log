@@ -1,0 +1,9 @@
+22:48:32.324 [main] INFO  base.Base - error message is displayed
+22:50:08.006 [main] INFO  base.Base - Driver is initalize
+22:50:10.245 [main] INFO  base.Base - URL is open
+22:50:12.779 [main] INFO  base.Base - error message is displayed
+22:50:13.763 [main] INFO  base.Base - URL is open
+22:50:14.992 [main] INFO  base.Base - error message is displayed
+22:57:30.557 [main] INFO  base.Base - Driver is initalize
+22:57:32.688 [main] INFO  base.Base - URL is open
+22:57:34.215 [main] INFO  base.Base - error message is displayed
