@@ -18,7 +18,6 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.ie.InternetExplorerDriver;
 import org.openqa.selenium.opera.OperaDriver;
 
-import Pracice.E2EFramework.HomePageTest;
 import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class Base {
@@ -33,20 +32,24 @@ public class Base {
 	String Browser=	prop.getProperty("browser");
 	if(Browser.equalsIgnoreCase("chrome")) {
 		 WebDriverManager.chromedriver().setup();
-		 driver=new ChromeDriver();	 
+		 driver=new ChromeDriver();	
+		 log.info("chrome browser is open");
 	
 	}else if(Browser.equalsIgnoreCase("firefox")) {
 		WebDriverManager.firefoxdriver().setup();
 		driver=new FirefoxDriver();
+		log.info("Firefox Browser is open");
 		
 	}
 	else if(Browser.equalsIgnoreCase("IE")) {
 		WebDriverManager.iedriver().setup();
 		driver=new InternetExplorerDriver();
+		log.info("IE browser open");
 	}
 	else if(Browser.equalsIgnoreCase("opera")) {
 		WebDriverManager.operadriver().setup();
 		driver=new OperaDriver();
+		log.info("opera browser is open");
 		
 		
 	}
