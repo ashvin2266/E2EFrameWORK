@@ -46,6 +46,7 @@ public class RegisterPage extends Base {
 		String Actualurl=driver.getCurrentUrl();
 		System.out.println(Actualurl);
 		Assert.assertEquals(Actualurl,"https://sso.teachable.com/secure/9521/users/sign_up?reset_purchase_session=1" );
+		log.info("title of page verified");
 	}
 	public void verifyLogo() {
 		boolean logo=pageLogo.isDisplayed();
@@ -64,6 +65,7 @@ public class RegisterPage extends Base {
 		String MSG=errorMSG.getText();
 		System.out.println(MSG);
 		Assert.assertEquals(MSG, "You must agree to the Terms of Use and Privacy Policy");
+		log.info("error message is verified");
 	}
 	
 	
