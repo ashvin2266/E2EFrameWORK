@@ -1,0 +1,6 @@
+11:34:54.920 [main] INFO  Pracice.E2EFramework.HomePageTest - URL is open
+11:35:00.105 [main] INFO  Pracice.E2EFramework.HomePageTest - error message is displayed
+11:35:01.239 [main] INFO  Pracice.E2EFramework.HomePageTest - URL is open
+11:35:05.373 [main] INFO  Pracice.E2EFramework.HomePageTest - error message is displayed
+11:35:08.349 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully logo is display on page
+11:35:11.650 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present

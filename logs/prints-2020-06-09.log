@@ -1,0 +1,6 @@
+00:48:59.779 [main] INFO  Pracice.E2EFramework.LandingPageTest - Navigation Bar is verified
+00:49:00.414 [main] INFO  Pracice.E2EFramework.LandingPageTest - Telephone number is verified
+00:49:01.050 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
+00:49:06.019 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
+00:49:08.208 [main] INFO  pageObjectPattern.RegisterPage - Url is open
+00:49:11.957 [main] INFO  pageObjectPattern.RegisterPage - Url is open

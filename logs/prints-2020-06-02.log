@@ -1,0 +1,6 @@
+10:47:53.403 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully logo is display on page
+10:47:54.454 [main] INFO  Pracice.E2EFramework.LandingPageTest - Navigation Bar is verified
+10:47:55.436 [main] INFO  Pracice.E2EFramework.LandingPageTest - Telephone number is verified
+10:47:56.358 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
+10:48:00.236 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
+10:52:16.714 [main] INFO  Pracice.E2EFramework.HomePageTest - Driver is initalize

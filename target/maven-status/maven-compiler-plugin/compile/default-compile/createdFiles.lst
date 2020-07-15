@@ -1,0 +1,4 @@
+pageObjectPattern\RegisterPage.class
+base\Base.class
+pageObjectPattern\HomePage.class
+pageObjectPattern\LandingPage.class

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite"  >
+<listeners>
+<listener class-name="Pracice.E2EFramework.Listeners"></listener></listeners>
+
+  <test name="HomePageTest">
+     <classes>
+      <class name="Pracice.E2EFramework.HomePageTest"/>
+      <class name="Pracice.E2EFramework.LandingPageTest"/>
+      <class name="Pracice.E2EFramework.RegisterPageTest"/>
+      </classes>
+  </test>
+  
+  </suite> <!-- Suite -->

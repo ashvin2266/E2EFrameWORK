@@ -1,0 +1,6 @@
+12:18:53.346 [main] INFO  Pracice.E2EFramework.LandingPageTest - Browser is open
+12:18:56.700 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully logo is display on page
+12:18:59.380 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
+12:19:03.613 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
+12:20:54.076 [main] INFO  pageObjectPattern.RegisterPage - Browser is open
+12:22:06.411 [main] INFO  pageObjectPattern.RegisterPage - Browser is open

@@ -1,0 +1,6 @@
+23:52:33.168 [main] INFO  Pracice.E2EFramework.HomePageTest - URL is open
+23:52:37.648 [main] INFO  Pracice.E2EFramework.HomePageTest - error message is displayed
+23:52:40.113 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully logo is display on page
+23:52:41.764 [main] INFO  Pracice.E2EFramework.LandingPageTest - Navigation Bar is verified
+23:52:42.426 [main] INFO  Pracice.E2EFramework.LandingPageTest - Telephone number is verified
+23:52:43.111 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present

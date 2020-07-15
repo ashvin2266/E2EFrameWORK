@@ -1,0 +1,6 @@
+12:21:15.167 [TestNG-tests-1] INFO  Pracice.E2EFramework.HomePageTest - Driver is initalize
+12:21:20.626 [TestNG-tests-1] INFO  Pracice.E2EFramework.LandingPageTest - Browser is open
+12:21:26.116 [TestNG-tests-1] INFO  pageObjectPattern.RegisterPage - Browser is open
+12:21:28.884 [TestNG-tests-1] INFO  Pracice.E2EFramework.HomePageTest - URL is open
+12:21:33.414 [TestNG-tests-1] INFO  Pracice.E2EFramework.HomePageTest - error message is displayed
+12:21:34.594 [TestNG-tests-1] INFO  Pracice.E2EFramework.HomePageTest - URL is open

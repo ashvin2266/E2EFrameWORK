@@ -1,0 +1,7 @@
+23:20:19.973 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
+23:20:22.888 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
+23:20:25.482 [main] INFO  pageObjectPattern.RegisterPage - Url is open
+23:20:30.170 [main] INFO  pageObjectPattern.RegisterPage - Url is open
+23:20:32.865 [main] INFO  pageObjectPattern.RegisterPage - Logo is displayed
+23:20:34.012 [main] INFO  pageObjectPattern.RegisterPage - Url is open
+23:20:38.268 [main] INFO  pageObjectPattern.RegisterPage - Registration form is filled up

@@ -1,0 +1,6 @@
+20:39:14.726 [TestNG-tests-1] INFO  pageObjectPattern.RegisterPage - Registration form is filled up
+20:39:15.908 [TestNG-tests-1] INFO  pageObjectPattern.RegisterPage - Url is open
+20:39:22.015 [TestNG-tests-1] INFO  pageObjectPattern.RegisterPage - Error Message is verified
+20:39:23.288 [TestNG-tests-1] INFO  pageObjectPattern.RegisterPage - Url is open
+20:39:27.190 [TestNG-tests-1] INFO  pageObjectPattern.RegisterPage - Url is open
+20:39:29.232 [TestNG-tests-1] INFO  pageObjectPattern.RegisterPage - Logo is displayed

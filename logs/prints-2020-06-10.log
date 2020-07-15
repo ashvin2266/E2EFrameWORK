@@ -1,0 +1,7 @@
+17:41:59.783 [main] INFO  pageObjectPattern.RegisterPage - Registration form is filled up
+17:42:00.623 [main] INFO  pageObjectPattern.RegisterPage - Url is open
+17:42:04.397 [main] INFO  pageObjectPattern.RegisterPage - Error Message is verified
+17:44:01.607 [main] INFO  Pracice.E2EFramework.HomePageTest - Driver is initalize
+17:44:03.436 [main] INFO  Pracice.E2EFramework.HomePageTest - URL is open
+17:44:06.431 [main] INFO  Pracice.E2EFramework.HomePageTest - error message is displayed
+17:44:07.982 [main] INFO  Pracice.E2EFramework.HomePageTest - URL is open
