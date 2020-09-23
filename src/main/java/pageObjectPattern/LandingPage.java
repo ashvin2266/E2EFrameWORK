@@ -24,6 +24,8 @@ public class LandingPage extends Base{
 	WebElement bannerText;
 	@FindBy(linkText="Register")
 	WebElement register;
+	@FindBy(linkText="Practice")
+	WebElement practice;
 	
 	
 	
@@ -61,7 +63,9 @@ public class LandingPage extends Base{
 		System.out.println(ActualText);
 	} 
 	public void clickOnRegisterBtn() {
-		register.click();
+		register.click();}
+		public void clickPractice() {
+			practice.click();
 	}
 
 }

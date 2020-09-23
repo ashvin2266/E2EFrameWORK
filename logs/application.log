@@ -41,3 +41,16 @@
 15:01:29.725 [main] INFO  Pracice.E2EFramework.LandingPageTest - Telephone number is verified
 15:01:30.383 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
 15:01:32.032 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
+18:18:48.386 [main] INFO  base.Base - chrome browser is open
+18:18:50.600 [main] INFO  Pracice.E2EFramework.PracticePageTest - Browser is open
+18:27:45.294 [main] INFO  base.Base - chrome browser is open
+18:27:47.459 [main] INFO  Pracice.E2EFramework.PracticePageTest - Browser is open
+18:32:12.884 [main] INFO  base.Base - chrome browser is open
+18:32:15.036 [main] INFO  base.Base - Driver is initalize
+18:32:17.964 [main] INFO  base.Base - URL is open
+18:32:19.664 [main] INFO  base.Base - error message is displayed
+18:32:20.924 [main] INFO  base.Base - URL is open
+18:32:21.904 [main] INFO  base.Base - error message is displayed
+18:32:22.609 [main] INFO  base.Base - Browser is closed
+18:33:01.412 [main] INFO  base.Base - chrome browser is open
+18:33:03.645 [main] INFO  Pracice.E2EFramework.PracticePageTest - Browser is open

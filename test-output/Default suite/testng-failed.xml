@@ -3,15 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Pracice.E2EFramework.RegisterPageTest">
+      <class name="Pracice.E2EFramework.PracticePageTest">
         <methods>
-          <include name="OpenBrowser"/>
-          <include name="closeBrowser"/>
-          <include name="verifylogo"/>
-          <include name="registerForm"/>
-          <include name="registerFormError"/>
+          <include name="initalization"/>
+          <include name="getLoginIn"/>
         </methods>
-      </class> <!-- Pracice.E2EFramework.RegisterPageTest -->
+      </class> <!-- Pracice.E2EFramework.PracticePageTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
