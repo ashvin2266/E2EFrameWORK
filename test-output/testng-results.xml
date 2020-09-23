@@ -1,53 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="12024" started-at="2020-07-15T23:03:09 BST" finished-at="2020-07-15T23:03:21 BST">
+  <suite name="Default suite" duration-ms="12751" started-at="2020-09-23T15:01:19 BST" finished-at="2020-09-23T15:01:32 BST">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="12024" started-at="2020-07-15T23:03:09 BST" finished-at="2020-07-15T23:03:21 BST">
-      <class name="Pracice.E2EFramework.HomePageTest">
-        <test-method status="PASS" signature="initalization()[pri:0, instance:Pracice.E2EFramework.HomePageTest@68567e20]" name="initalization" is-config="true" duration-ms="5975" started-at="2020-07-15T23:03:09 BST" finished-at="2020-07-15T23:03:15 BST">
+    <test name="Default test" duration-ms="12751" started-at="2020-09-23T15:01:19 BST" finished-at="2020-09-23T15:01:32 BST">
+      <class name="Pracice.E2EFramework.LandingPageTest">
+        <test-method status="PASS" signature="initalization()[pri:0, instance:Pracice.E2EFramework.LandingPageTest@610f7aa]" name="initalization" is-config="true" duration-ms="6110" started-at="2020-09-23T15:01:19 BST" finished-at="2020-09-23T15:01:25 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initalization -->
-        <test-method status="PASS" signature="getLogin(java.lang.String, java.lang.String)[pri:0, instance:Pracice.E2EFramework.HomePageTest@68567e20]" name="getLogin" duration-ms="3739" started-at="2020-07-15T23:03:15 BST" data-provider="getData" finished-at="2020-07-15T23:03:18 BST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[def@hotmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[987654]]>
-              </value>
-            </param>
-          </params>
+        <test-method status="PASS" signature="verifyLogo()[pri:1, instance:Pracice.E2EFramework.LandingPageTest@610f7aa]" name="verifyLogo" duration-ms="2784" started-at="2020-09-23T15:01:25 BST" finished-at="2020-09-23T15:01:28 BST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getLogin -->
-        <test-method status="PASS" signature="getLogin(java.lang.String, java.lang.String)[pri:0, instance:Pracice.E2EFramework.HomePageTest@68567e20]" name="getLogin" duration-ms="1635" started-at="2020-07-15T23:03:18 BST" data-provider="getData" finished-at="2020-07-15T23:03:20 BST">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[abc@gmail.com]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[123456]]>
-              </value>
-            </param>
-          </params>
+        </test-method> <!-- verifyLogo -->
+        <test-method status="PASS" signature="verifyNavigationBar()[pri:2, instance:Pracice.E2EFramework.LandingPageTest@610f7aa]" name="verifyNavigationBar" duration-ms="720" started-at="2020-09-23T15:01:28 BST" finished-at="2020-09-23T15:01:29 BST">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getLogin -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:Pracice.E2EFramework.HomePageTest@68567e20]" name="tearDown" is-config="true" duration-ms="653" started-at="2020-07-15T23:03:20 BST" finished-at="2020-07-15T23:03:21 BST">
+        </test-method> <!-- verifyNavigationBar -->
+        <test-method status="PASS" signature="verifyTelNo()[pri:3, instance:Pracice.E2EFramework.LandingPageTest@610f7aa]" name="verifyTelNo" duration-ms="694" started-at="2020-09-23T15:01:29 BST" finished-at="2020-09-23T15:01:29 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTelNo -->
+        <test-method status="PASS" signature="verifyBannerText()[pri:4, instance:Pracice.E2EFramework.LandingPageTest@610f7aa]" name="verifyBannerText" duration-ms="656" started-at="2020-09-23T15:01:29 BST" finished-at="2020-09-23T15:01:30 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyBannerText -->
+        <test-method status="PASS" signature="navigateLandingPage()[pri:5, instance:Pracice.E2EFramework.LandingPageTest@610f7aa]" name="navigateLandingPage" duration-ms="1646" started-at="2020-09-23T15:01:30 BST" finished-at="2020-09-23T15:01:32 BST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- navigateLandingPage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Pracice.E2EFramework.LandingPageTest@610f7aa]" name="tearDown" is-config="true" duration-ms="82" started-at="2020-09-23T15:01:32 BST" finished-at="2020-09-23T15:01:32 BST">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-      </class> <!-- Pracice.E2EFramework.HomePageTest -->
+      </class> <!-- Pracice.E2EFramework.LandingPageTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

@@ -4,3 +4,40 @@
 23:03:19.697 [main] INFO  base.Base - URL is open
 23:03:20.480 [main] INFO  base.Base - error message is displayed
 23:03:21.137 [main] INFO  base.Base - Browser is closed
+14:49:12.452 [main] INFO  base.Base - chrome browser is open
+14:49:14.606 [main] INFO  base.Base - Driver is initalize
+14:49:17.789 [main] INFO  base.Base - URL is open
+14:49:19.351 [main] INFO  base.Base - error message is displayed
+14:49:20.476 [main] INFO  base.Base - URL is open
+14:49:21.416 [main] INFO  base.Base - error message is displayed
+14:49:22.094 [main] INFO  base.Base - Browser is closed
+14:49:54.057 [main] INFO  base.Base - chrome browser is open
+14:49:56.205 [main] INFO  Pracice.E2EFramework.LandingPageTest - Browser is open
+14:49:59.109 [main] INFO  base.Base - logo is verified
+14:49:59.109 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully logo is display on page
+14:49:59.149 [main] INFO  base.Base - Title of the page verified
+14:49:59.150 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully Title is verified
+14:49:59.785 [main] INFO  Pracice.E2EFramework.LandingPageTest - Navigation Bar is verified
+14:50:00.444 [main] INFO  Pracice.E2EFramework.LandingPageTest - Telephone number is verified
+14:50:01.143 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
+14:50:02.982 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
+15:00:14.410 [main] INFO  base.Base - chrome browser is open
+15:00:16.555 [main] INFO  Pracice.E2EFramework.LandingPageTest - Browser is open
+15:00:18.736 [main] INFO  base.Base - logo is verified
+15:00:18.736 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully logo is display on page
+15:00:18.779 [main] INFO  base.Base - Title of the page verified
+15:00:18.779 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully Title is verified
+15:00:19.536 [main] INFO  Pracice.E2EFramework.LandingPageTest - Navigation Bar is verified
+15:00:20.215 [main] INFO  Pracice.E2EFramework.LandingPageTest - Telephone number is verified
+15:00:20.887 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
+15:00:22.714 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
+15:01:23.334 [main] INFO  base.Base - chrome browser is open
+15:01:25.481 [main] INFO  Pracice.E2EFramework.LandingPageTest - Browser is open
+15:01:28.263 [main] INFO  base.Base - logo is verified
+15:01:28.263 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully logo is display on page
+15:01:28.297 [main] INFO  base.Base - Title of the page verified
+15:01:28.297 [main] INFO  Pracice.E2EFramework.LandingPageTest - Successfully Title is verified
+15:01:29.029 [main] INFO  Pracice.E2EFramework.LandingPageTest - Navigation Bar is verified
+15:01:29.725 [main] INFO  Pracice.E2EFramework.LandingPageTest - Telephone number is verified
+15:01:30.383 [main] ERROR Pracice.E2EFramework.LandingPageTest - banner text is not present
+15:01:32.032 [main] ERROR Pracice.E2EFramework.LandingPageTest - succesfully login done
